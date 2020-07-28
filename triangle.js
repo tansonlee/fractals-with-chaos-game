@@ -18,9 +18,9 @@ function setup() {
 }
 
 function draw() {
-	for (let i = 0; i < 100; i++) {
+	for (let i = 0; i < 500; i++) {
 		for (let i = 0; i < points.length; i++) {
-			strokeWeight(6);
+			strokeWeight(1);
 			stroke(0);
 			point(points[i].x, points[i].y);
 		}

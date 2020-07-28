@@ -1,4 +1,4 @@
-const numPoints = 3;
+const numPoints = 4;
 let points = [];
 let current;
 let prev;
@@ -18,17 +18,20 @@ function setup() {
 }
 
 function draw() {
-	for (let i = 0; i < 100; i++) {
+	for (let i = 0; i < 500; i++) {
 		for (let i = 0; i < points.length; i++) {
-			strokeWeight(6);
+			strokeWeight(1);
 			stroke(0);
 			point(points[i].x, points[i].y);
 		}
 
-		const next = random(points);
-		const midX = (current.x + next.x) / 2;
-		const midY = (current.y + next.y) / 2;
-		point(midX, midY);
-		current = createVector(midX, midY);
+		const chosen = random(points);
+		if (chosen !== prev) {
+			const midX = (current.x + chosen.x) / 2;
+			const midY = (current.y + chosen.y) / 2;
+			point(midX, midY);
+			current = createVector(midX, midY);
+			prev = chosen;
+		}
 	}
 }
