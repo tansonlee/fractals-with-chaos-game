@@ -40,16 +40,16 @@ Made with JavaScript and visualized with the p5.js library
 
 | Result | Restriction |
 | --- | --- |
-| <img src="assets/triangle/sierpinskiTriangle.gif" width="300px"> | Sierpinski triangle |
+| <img src="assets/triangle/sierpinskiTriangle.gif" width="300px"> | *Sierpinski Triangle:*<br>3 vertices |
 | <img src="assets/region/nike.gif" width="300" align="left"> | Points cannot be placed within the Nike logo |
 | <img src="assets/region/pi.gif" width="300px"> | Same as above but a Pi symbol is used |
 | <img src="assets/region/treble-clef.gif" width="300px"> | Same as above but a treble clef is used |
 | <img src="assets/square/consecutiveRepitition.gif" width="300px"> | The chosen point cannot be chosen again in the next iteration |
 | <img src="assets/square/diagonal.gif" width="300px"> | The chosen point cannot be diagonal from the previous point |
-| <img src="assets/square/onePositionAntiClockwise.gif" width="300px"> | The point chosen cannot be 1 position anti-clockwise from the previous point |
-| <img src="assets/square/sierpinskiCarpet.gif" width="300px"> | The point jumps 2/3 of the way to the chosen point<br>The midpoints along the edges are considered vertices |
-| <img src="assets/square/vicsekFractal.gif" width="300px"> | The point jumps 2/3 of the way to the chosen point<br>The centre is also considered a vertex |
-| <img src="assets/pentagon/consecutiveRepitition.gif" width="300px"> | The chosen point cannot be chosen again in the next iteration |
+| <img src="assets/square/onePositionAntiClockwise.gif" width="300px"> | The point chosen cannot be ajacent and anti-clockwise to the previous point |
+| <img src="assets/square/sierpinskiCarpet.gif" width="300px"> | *Sierpinski Carpet:*<br>The point jumps 2/3 of the way to the chosen point<br>The midpoints along the edges are considered vertices |
+| <img src="assets/square/vicsekFractal.gif" width="300px"> | *Vicsek Fractal:*<br>The point jumps 2/3 of the way to the chosen point<br>The centre is also considered a vertex |
+| <img src="assets/pentagon/consecutiveRepitition.gif" width="300px"> | The chosen point cannot be chosen again in the next iteration with 5 vertices |
 | <img src="assets/pentagon/inversePhi.gif" width="300px"> | The point jumps 1/PHI of the way to the chosen point |
 
 <br>
