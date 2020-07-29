@@ -11,15 +11,16 @@ Made with JavaScript and visualized with the p5.js library
 
 **Other results:** <br> When more restrictions are placed and more vertices are added other interesting results.
 
+| Result | Restriction |
+| ------ | ----------- |
+| Four points are used as vertices and points cannot be placed within the central Nike logo. This creates a fractal pattern where points cannot exist within the smaller Nike logos creating a fractal patter of logos. | <img src="assets/region/nike.gif" width="300" align="left"> |
+
+<br>
 
 
-
-
-
-
-| <div style="width:290px">Result</div> | Restriction                                                                                                                                                                                                           |
-| --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <img src="assets/region/nike.gif" width="300" align="left">        | Four points are used as vertices and points cannot be placed within the central Nike logo. This creates a fractal pattern where points cannot exist within the smaller Nike logos creating a fractal patter of logos. |
+| Result | Restriction |
+| ------ | ----------- |
+| <img src="assets/region/nike.gif" width="300" align="left"> | Four points are used as vertices and points cannot be placed within the central Nike logo. This creates a fractal pattern where points cannot exist within the smaller Nike logos creating a fractal patter of logos. |
 | <img src="assets/region/pi.gif" width="300px">                       | Same as above but a Pi symbol is used.                                                                                                                                                                                |
 | <img src="assets/region/treble-clef.gif" width="300px">              | Same as above but a treble clef is used.                                                                                                                                                                              |
 | <img src="assets/square/consecutiveRepitition.gif" width="300px">    | 4 vertices are used but the next chosen vertex cannot be the one just chosen.                                                                                                                                                                                                              |
