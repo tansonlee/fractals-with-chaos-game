@@ -13,22 +13,6 @@ Made with JavaScript and visualized with the p5.js library
 
 | Result | Restriction |
 | ------ | ----------- |
-| Four points are used as vertices and points cannot be placed within the central Nike logo. This creates a fractal pattern where points cannot exist within the smaller Nike logos creating a fractal patter of logos. | <img src="assets/region/nike.gif" width="300" align="left"> |
-
-<table>
-  <tr>
-    <td><img src="assets/region/nike.gif" width="300" align="left"></td>
-    <td>Four points are used as vertices and points cannot be placed within the central Nike logo. This creates a fractal pattern where points cannot exist within the smaller Nike logos creating a fractal patter of logos.</td>
-  </tr>
-</table>
-
-
-
-<br>
-
-
-| Result | Restriction |
-| ------ | ----------- |
 | <img src="assets/region/nike.gif" width="300" align="left"> | Four points are used as vertices and points cannot be placed within the central Nike logo. This creates a fractal pattern where points cannot exist within the smaller Nike logos creating a fractal patter of logos. |
 | <img src="assets/region/pi.gif" width="300px">                       | Same as above but a Pi symbol is used.                                                                                                                                                                                |
 | <img src="assets/region/treble-clef.gif" width="300px">              | Same as above but a treble clef is used.                                                                                                                                                                              |
