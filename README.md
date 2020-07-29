@@ -16,7 +16,7 @@ Made with JavaScript and visualized with the p5.js library
 
 **Restricted Regions**
 
-<img src="assets/region/nike.gif" width="250"><img src="assets/region/pi.gif" width="250px"><img src="assets/region/treble-clef.gif" width="250px"><br> The area in the centre is restricted for these fractals. Points cannot be placed within the central symbol which also prevents them from existing within the smaller ones. This creates a fractal pattern of symbols. Any symbol can be used.
+<img src="assets/region/nike.gif" width="290"><img src="assets/region/pi.gif" width="290px"><img src="assets/region/treble-clef.gif" width="290px"><br> The area in the centre is restricted for these fractals. Points cannot be placed within the central symbol which also prevents them from existing within the smaller ones. This creates a fractal pattern of symbols. Any symbol can be used.
 
 ---
 
