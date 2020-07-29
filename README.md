@@ -22,7 +22,7 @@ Made with JavaScript and visualized with the p5.js library
 
 **Restricted Movement**
 
-<img src="assets/square/consecutiveRepitition.gif" width="300px"><img src="assets/square/diagonal.gif" width="300px"><img src="assets/square/onePositionAntiClockwise.gif" width="300px"><br> Restrictions are set for what the next point can be based on what the previously chosen point was.
+<img src="assets/square/consecutiveRepitition.gif" width="270px"><img src="assets/square/diagonal.gif" width="270px"><img src="assets/square/onePositionAntiClockwise.gif" width="270px"><br> Restrictions are set for what the next point can be based on what the previously chosen point was.
 
 ---
 
