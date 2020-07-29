@@ -18,6 +18,8 @@ Four points are used as vertices and points cannot be placed within the central 
 
 <img src="assets/square/consecutiveRepitition.gif" width="300px" align="right"> The point that is chosen cannot be chosen again in the next iteration.
 
+<br>
+
 <img src="assets/square/diagonal.gif" width="300px"> The point that is chosen cannot be diagonal from the previous point chosen.
 
 <img src="assets/square/onePositionAntiClockwise.gif" width="300px"> The point chosen cannot be 1 position away in the anti-clockwise directioin from the previous point chosen.
