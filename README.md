@@ -15,25 +15,25 @@ Made with JavaScript and visualized with the p5.js library
 <br>
 <br>
 
-**Restricted Regions**
+**Restricted Regions** <br>
 <img src="assets/region/nike.gif" width="300"><img src="assets/region/pi.gif" width="300px"><img src="assets/region/treble-clef.gif" width="300px"><br>
 The area in the centre is restricted for these fractals. Points cannot be placed within the central symbol which also prevents them from existing within the smaller ones. This creates a fractal pattern of symbols. Any symbol can be used.
 
 ---
 
-**Restricted Movement**
+**Restricted Movement**<br>
 <img src="assets/square/consecutiveRepitition.gif" width="300px"><img src="assets/square/diagonal.gif" width="300px"><img src="assets/square/onePositionAntiClockwise.gif" width="300px"><br>
 Restrictions are set for what the next point can be based on what the previously chosen point was.
 
 ---
 
-**Additional Vertices & Non-midpoint Jumps**
+**Additional Vertices & Non-midpoint Jumps**<br>
 <img src="assets/square/sierpinskiCarpet.gif" width="300px"><img src="assets/square/vicsekFractal.gif" width="300px"><br>
 New verticies are added and the distance travelled to the next chosen point is not exactly at the midpoint.
 
 ---
 
-**pentagon**
+**pentagon**<br>
 <img src="assets/pentagon/consecutiveRepitition.gif" width="300px"><img src="assets/pentagon/inversePhi.gif" width="300px"><br>
 pentagon stuff
 
