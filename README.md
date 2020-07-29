@@ -5,14 +5,12 @@
 
 Made with JavaScript and visualized with the p5.js library
 
-**Most general definition:** <br> There are fixed vertices which can be defined by the vertices of a shape, for example a triangle. One vertex is chosen as the starting point then another random vertex is chosen. The midpoint is found between the two points and a dot is drawn there. This midpoint becomes the new starting point and another vertex is chosen at random. The midpoint is then found again and a dot is drawn. A pattern appears as these steps continue. Restrictions can be applied to create interesting fractals.
+**Most general definition:** <br> There are fixed vertices which can be defined by the vertices of a shape, for example a triangle. One vertex is chosen as the starting point then another random vertex is chosen. The midpoint is found between the two points and a dot is drawn there. This midpoint becomes the new starting point and another vertex is chosen at random. The midpoint is then found again and a dot is drawn. A pattern appears as these steps continue. From a seemingly random algorithm, interesting fractals appear.
 
 **With 3 vertices a Sierpinski Triangle forms:** <br>
 <img src="assets/triangle/sierpinskiTriangle.gif" width="300px">
 
-**Other results:** <br> When more restrictions are placed and more vertices are added other interesting results.
-
-<br>
+**Other interesting results may arrise when more restrictions are placed, vertices are added and the jump deviates from the midpoint**
 <br>
 
 **Restricted Regions**
