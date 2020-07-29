@@ -16,7 +16,7 @@ Four points are used as vertices and points cannot be placed within the central 
 
 ---
 
-<img src="assets/square/consecutiveRepitition.gif" width="300px" align="right"> The point that is chosen cannot be chosen again in the next iteration.
+<img src="assets/square/consecutiveRepitition.gif" width="300px" align="left"> The point that is chosen cannot be chosen again in the next iteration.
 
 <br>
 
