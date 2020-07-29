@@ -5,30 +5,35 @@
 
 Made with JavaScript and visualized with the p5.js library
 
-**Most general definition:** <br> There are fixed vertices which can be defined by the vertices of a shape, for example a triangle. One vertex is chosen as the starting point then another random vertex is chosen. The mid point is found between the two points and a dot is drawn there. This mid point becomes the new starting point and another vertex is chosen at random. The mid point is then found again and a dot is drawn. A pattern appears as these steps continue. Restrictions can be applied to create interesting fractals.
+**Most general definition:** <br> There are fixed vertices which can be defined by the vertices of a shape, for example a triangle. One vertex is chosen as the starting point then another random vertex is chosen. The midpoint is found between the two points and a dot is drawn there. This midpoint becomes the new starting point and another vertex is chosen at random. The midpoint is then found again and a dot is drawn. A pattern appears as these steps continue. Restrictions can be applied to create interesting fractals.
 
-**With 3 vertices a Serpinski Triangle forms:** <br>
+**With 3 vertices a Sierpinski Triangle forms:** <br>
 <img src="assets/triangle/sierpinskiTriangle.gif" width="300px">
 
 **Other results:** <br> When more restrictions are placed and more vertices are added other interesting results.
 
 <br>
+<br>
 
+**Restricted Regions**
 <img src="assets/region/nike.gif" width="300"><img src="assets/region/pi.gif" width="300px"><img src="assets/region/treble-clef.gif" width="300px"><br>
 The area in the centre is restricted for these fractals. Points cannot be placed within the central symbol which also prevents them from existing within the smaller ones. This creates a fractal pattern of symbols. Any symbol can be used.
 
 ---
 
+**Restricted Movement**
 <img src="assets/square/consecutiveRepitition.gif" width="300px"><img src="assets/square/diagonal.gif" width="300px"><img src="assets/square/onePositionAntiClockwise.gif" width="300px"><br>
 Restrictions are set for what the next point can be based on what the previously chosen point was.
 
 ---
 
+**Additional Vertices & Non-midpoint Jumps**
 <img src="assets/square/sierpinskiCarpet.gif" width="300px"><img src="assets/square/vicsekFractal.gif" width="300px"><br>
-New verticies are added and the distance travelled to the next chosen point is not exactly at the mid point.
+New verticies are added and the distance travelled to the next chosen point is not exactly at the midpoint.
 
 ---
 
+**pentagon**
 <img src="assets/pentagon/consecutiveRepitition.gif" width="300px"><img src="assets/pentagon/inversePhi.gif" width="300px"><br>
 pentagon stuff
 
@@ -43,7 +48,7 @@ pentagon stuff
 | <img src="assets/square/consecutiveRepitition.gif" width="300px">    | The point that is chosen cannot be chosen again in the next iteration.                                                                                                                                                                                                              |
 | <img src="assets/square/diagonal.gif" width="300px">                 | The point that is chosen cannot be diagonal from the previous point chosen.                                                                                                                                                                                                              |
 | <img src="assets/square/onePositionAntiClockwise.gif" width="300px"> | The point chosen cannot be 1 position away in the anti-clockwise directioin from the previous point chosen.                                                                                                                                                                                                               |
-| <img src="assets/square/sierpinskiCarpet.gif" width="300px">         | The point jumps 2/3 of the way to the chosen point and the mid points of the corners along the edges are also considered vertices.                                                                                                                                                                                                               |
+| <img src="assets/square/sierpinskiCarpet.gif" width="300px">         | The point jumps 2/3 of the way to the chosen point and the midpoints of the corners along the edges are also considered vertices.                                                                                                                                                                                                               |
 | <img src="assets/square/vicsekFractal.gif" width="300px">            | The point jumps 2/3 of the way to the chosen point and the centre is also considered a vertex.                                                                                                                                                                                                               |
 | <img src="assets/pentagon/consecutiveRepitition.gif" width="300px">  | asdadsf                                                                                                                                                                                                               |
 | <img src="assets/pentagon/inversePhi.gif" width="300px">             | asdadsf                                                                                                                                                                                                               |
