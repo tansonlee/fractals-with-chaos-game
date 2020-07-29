@@ -13,6 +13,8 @@ Made with JavaScript and visualized with the p5.js library
 **Other interesting results may arrise when more restrictions are placed, vertices are added and the jump deviates from the midpoint**
 <br>
 
+---
+
 **Restricted Regions**
 
 <img src="assets/region/nike.gif" width="300"><img src="assets/region/pi.gif" width="300px"><img src="assets/region/treble-clef.gif" width="300px"><br>
