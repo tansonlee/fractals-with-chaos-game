@@ -11,6 +11,20 @@ Made with JavaScript and visualized with the p5.js library
 
 **Other results:** <br> When more restrictions are placed and more vertices are added other interesting results.
 
+<img src="assets/region/nike.gif" width="300">
+<img src="assets/region/pi.gif" width="300px">
+<img src="assets/region/treble-clef.gif" width="300px">
+<br>
+Four points are used as vertices and points cannot be placed within the central Nike logo. This creates a fractal pattern where points cannot exist within the smaller Nike logos creating a fractal patter of logos.
+
+---
+
+<img src="assets/square/consecutiveRepitition.gif" width="300px">
+<img src="assets/square/diagonal.gif" width="300px">
+<img src="assets/square/onePositionAntiClockwise.gif" width="300px">
+<img src="assets/square/sierpinskiCarpet.gif" width="300px">
+
+
 | Result | Restriction |
 | ------ | ----------- |
 | <img src="assets/region/nike.gif" width="300" align="left"> | Four points are used as vertices and points cannot be placed within the central Nike logo. This creates a fractal pattern where points cannot exist within the smaller Nike logos creating a fractal patter of logos. |
