@@ -17,7 +17,7 @@ Made with JavaScript and visualized with the p5.js library
 
 
 
-| Result                                                               | Restriction                                                                                                                                                                                                           |
+| <div style="width:290px">Result</div> | Restriction                                                                                                                                                                                                           |
 | --------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | <img src="assets/region/nike.gif" width="300" align="left">        | Four points are used as vertices and points cannot be placed within the central Nike logo. This creates a fractal pattern where points cannot exist within the smaller Nike logos creating a fractal patter of logos. |
 | <img src="assets/region/pi.gif" width="300px">                       | Same as above but a Pi symbol is used.                                                                                                                                                                                |
