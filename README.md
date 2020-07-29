@@ -16,11 +16,15 @@ Four points are used as vertices and points cannot be placed within the central 
 
 ---
 
-<img src="assets/square/consecutiveRepitition.gif" width="300px"> asdfasdfasfsadff
-<img src="assets/square/diagonal.gif" width="300px">asdfsafasfda
-<img src="assets/square/onePositionAntiClockwise.gif" width="300px">asfdasfasfas
-<img src="assets/square/sierpinskiCarpet.gif" width="300px">asfdasfasfadsfs
+<img src="assets/square/consecutiveRepitition.gif" width="300px"> The point that is chosen cannot be chosen again in the next iteration.
 
+<img src="assets/square/diagonal.gif" width="300px"> The point that is chosen cannot be diagonal from the previous point chosen.
+
+<img src="assets/square/onePositionAntiClockwise.gif" width="300px"> The point chosen cannot be 1 position away in the anti-clockwise directioin from the previous point chosen.
+
+<img src="assets/square/sierpinskiCarpet.gif" width="300px"> The point jumps 2/3 of the way to the chosen point and the mid points of the corners along the edges are also considered vertices.
+
+<img src="assets/square/vicsekFractal.gif" width="300px"> The point jumps 2/3 of the way to the chosen point and the centre is also considered a vertex.
 
 | Result | Restriction |
 | ------ | ----------- |
