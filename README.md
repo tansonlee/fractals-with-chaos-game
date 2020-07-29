@@ -1,6 +1,7 @@
 # Fractals with Chaos Game
 
 ### Fractal patterns are created using chaos game
+### Details for all fractals can be found at the bottom.
 
 Made with JavaScript and visualized with the p5.js library
 
@@ -10,7 +11,6 @@ Made with JavaScript and visualized with the p5.js library
 <img src="assets/triangle/sierpinskiTriangle.gif" width="300px">
 
 **Other results:** <br> When more restrictions are placed and more vertices are added other interesting results.
-### Details for all fractals can be found at the bottom.
 
 <br>
 
