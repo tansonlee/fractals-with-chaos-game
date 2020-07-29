@@ -10,6 +10,9 @@ Made with JavaScript and visualized with the p5.js library
 <img src="assets/triangle/sierpinskiTriangle.gif" width="300px">
 
 **Other results:** <br> When more restrictions are placed and more vertices are added other interesting results.
+### Details for all fractals can be found at the bottom.
+
+<br>
 
 <img src="assets/region/nike.gif" width="300"><img src="assets/region/pi.gif" width="300px"><img src="assets/region/treble-clef.gif" width="300px"><br>
 The area in the centre is restricted for these fractals. Points cannot be placed within the central symbol which also prevents them from existing within the smaller ones. This creates a fractal pattern of symbols. Any symbol can be used.
