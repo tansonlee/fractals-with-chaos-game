@@ -8,7 +8,7 @@ Made with JavaScript and visualized with the p5.js library
 
 **Most general definition:** <br> There are fixed vertices which can be defined by the vertices of a shape, for example a triangle. One vertex is chosen as the starting point then another random vertex is chosen. The midpoint is found between the two points and a dot is drawn there. This midpoint becomes the new starting point and another vertex is chosen at random. The midpoint is then found again and a dot is drawn. A pattern appears as these steps continue. From a seemingly random algorithm, interesting fractals appear.
 
-**With 3 vertices a Sierpinski Triangle forms:** <br> <img src="assets/triangle/sierpinskiTriangle.gif" width="300px">
+**With 3 vertices, a Sierpinski Triangle forms:** <br> <img src="assets/triangle/sierpinskiTriangle.gif" width="300px">
 
 **Other interesting results may arrise when more restrictions are placed, vertices are added and the jump deviates from the midpoint** <br>
 
@@ -16,13 +16,13 @@ Made with JavaScript and visualized with the p5.js library
 
 **Restricted Regions**
 
-<img src="assets/region/nike.gif" width="300"><img src="assets/region/pi.gif" width="300px"><img src="assets/region/treble-clef.gif" width="300px"><br> The area in the centre is restricted for these fractals. Points cannot be placed within the central symbol which also prevents them from existing within the smaller ones. This creates a fractal pattern of symbols. Any symbol can be used.
+<img src="assets/region/nike.gif" width="250"><img src="assets/region/pi.gif" width="250px"><img src="assets/region/treble-clef.gif" width="250px"><br> The area in the centre is restricted for these fractals. Points cannot be placed within the central symbol which also prevents them from existing within the smaller ones. This creates a fractal pattern of symbols. Any symbol can be used.
 
 ---
 
 **Restricted Movement**
 
-<img src="assets/square/consecutiveRepitition.gif" width="300px"><img src="assets/square/diagonal.gif" width="300px"><img src="assets/square/onePositionAntiClockwise.gif" width="300px"><br> Restrictions are set for what the next point can be based on what the previously chosen point was.
+<img src="assets/square/consecutiveRepitition.gif" width="250px"><img src="assets/square/diagonal.gif" width="250px"><img src="assets/square/onePositionAntiClockwise.gif" width="250px"><br> Restrictions are set for what the next point can be based on what the previously chosen point was.
 
 ---
 
