@@ -6,7 +6,7 @@
 
 Made with JavaScript and visualized with the p5.js library
 
-**Most general definition:** <br> There are fixed vertices which can be defined by the vertices of a shape, for example a triangle. One vertex is chosen as the starting point then another random vertex is chosen. The midpoint is found between the two points and a dot is drawn there. This midpoint becomes the new starting point and another vertex is chosen at random. The midpoint is then found again and a dot is drawn. A pattern appears as these steps continue. From a seemingly random algorithm, interesting fractals appear.
+**Most general definition:** <br> There are fixed vertices which can be defined by the vertices of a shape, for example a triangle. One vertex is chosen as the starting point then another random vertex is chosen. The midpoint is found between the two points and a dot is drawn there. This midpoint becomes the new starting point and another vertex is chosen at random. The midpoint is then found again and a dot is drawn. A pattern appears as these steps continue. This algorithm creates fractals such as: the Sierpinski Triangle, Sierpinski Carpet and Vicsek Fractal. From a seemingly random algorithm, interesting fractals appear.
 
 **With 3 vertices, a Sierpinski Triangle forms:** <br> <img src="assets/triangle/sierpinskiTriangle.gif" width="300px">
 
@@ -40,15 +40,15 @@ Made with JavaScript and visualized with the p5.js library
 
 | Result | Restriction |
 | --- | --- |
-| <img src="assets/triangle/sierpinskiTriangle.gif" width="300px"> | *Sierpinski Triangle:*<br>3 vertices |
+| <img src="assets/triangle/sierpinskiTriangle.gif" width="300px"> | **Sierpinski Triangle:**<br>3 vertices |
 | <img src="assets/region/nike.gif" width="300" align="left"> | Points cannot be placed within the Nike logo |
 | <img src="assets/region/pi.gif" width="300px"> | Same as above but a Pi symbol is used |
 | <img src="assets/region/treble-clef.gif" width="300px"> | Same as above but a treble clef is used |
 | <img src="assets/square/consecutiveRepitition.gif" width="300px"> | The chosen point cannot be chosen again in the next iteration |
 | <img src="assets/square/diagonal.gif" width="300px"> | The chosen point cannot be diagonal from the previous point |
 | <img src="assets/square/onePositionAntiClockwise.gif" width="300px"> | The point chosen cannot be ajacent and anti-clockwise to the previous point |
-| <img src="assets/square/sierpinskiCarpet.gif" width="300px"> | *Sierpinski Carpet:*<br>The point jumps 2/3 of the way to the chosen point<br>The midpoints along the edges are considered vertices |
-| <img src="assets/square/vicsekFractal.gif" width="300px"> | *Vicsek Fractal:*<br>The point jumps 2/3 of the way to the chosen point<br>The centre is also considered a vertex |
+| <img src="assets/square/sierpinskiCarpet.gif" width="300px"> | **Sierpinski Carpet:**<br>The point jumps 2/3 of the way to the chosen point<br>The midpoints along the edges are considered vertices |
+| <img src="assets/square/vicsekFractal.gif" width="300px"> | **Vicsek Fractal:**<br>The point jumps 2/3 of the way to the chosen point<br>The centre is also considered a vertex |
 | <img src="assets/pentagon/consecutiveRepitition.gif" width="300px"> | The chosen point cannot be chosen again in the next iteration with 5 vertices |
 | <img src="assets/pentagon/inversePhi.gif" width="300px"> | The point jumps 1/PHI of the way to the chosen point |
 
