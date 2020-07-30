@@ -34,7 +34,7 @@ Made with JavaScript and visualized with the p5.js library
 
 **Five Vertices are Chosen in the Shape of a Pentagon**
 
-<img src="assets/pentagon/consecutiveRepitition.gif" width="300px"><img src="assets/pentagon/inversePhi.gif" width="300px"><br> On the left, the chosen point cannot be chosen again in the next iteration. On the right, the point jumps a distance 1 / PHI to the chosen point.
+<img src="assets/pentagon/consecutiveRepitition.gif" width="300px"><img src="assets/pentagon/inversePhi.gif" width="300px"><br> On the left, the chosen point cannot be chosen again in the next iteration.<br>On the right, the point jumps a distance 1 / PHI to the chosen point.
 
 ---
 
