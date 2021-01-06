@@ -1,5 +1,7 @@
 # Fractals with Chaos Game
 
+Link to hosted project: [Fractals with Chaos Game](https://tansonlee.github.io/fractals-with-chaos-game/)
+
 ### Fractal patterns are created using chaos game
 
 ### Details for all fractals can be found at the bottom.
